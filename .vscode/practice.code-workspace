@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"code-runner.executorMap": { 
+			"python": "C:\\Users\\vamsi\\miniconda3\\Scripts\\activate.bat C:\\Users\\vamsi\\miniconda3 & conda activate d2l-practice & python"
+		}
+	}
+}
