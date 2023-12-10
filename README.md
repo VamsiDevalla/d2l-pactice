@@ -44,13 +44,16 @@ init
 ## 4. Create conda env for d2l
 
 ```bash
+# create a d2l env for d2l book
 conda create --name d2l python=3.9 -y
+# create a d2l-practice env for your practice
+conda create --name d2l-practice python=3.9 -y 
 ```
 
 ## 5. Activate conda env for d2l
 
 ```bash
-conda activate d2l
+conda activate {package-name d2l/d2l-practice}
 ```
 
 ## 6. Install PyTorch
@@ -67,18 +70,24 @@ pip install torch==2.0.0 torchvision==0.15.1
 Encapsulates frequently used functions and classes found throughout this book
 
 ```bash
+# only needed for d2l env
 pip install d2l==1.0.3
 ```
 
 ## 8. Downloading and running code
 
 ```bash
+# only needed for d2l env
 mkdir d2l-en && cd d2l-en
 curl https://d2l.ai/d2l-en-1.0.3.zip -o d2l-en.zip
 unzip d2l-en.zip && rm d2l-en.zip
 cd pytorch
 jupyter notebook
 ```
+
+## 9. Useful links
+[adding miniconda to windows terminal](https://dev.to/azure/easily-add-anaconda-prompt-in-windows-terminal-to-make-life-better-3p6j)
+[setting up vs-code to conda](https://medium.com/@udiyosovzon/how-to-activate-conda-environment-in-vs-code-ce599497f20d)
 
 ## 9. Useful Commands
 
