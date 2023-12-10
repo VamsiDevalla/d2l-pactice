@@ -86,10 +86,12 @@ jupyter notebook
 ```
 
 ## 9. Useful links
-[adding miniconda to windows terminal](https://dev.to/azure/easily-add-anaconda-prompt-in-windows-terminal-to-make-life-better-3p6j)
-[setting up vs-code to conda](https://medium.com/@udiyosovzon/how-to-activate-conda-environment-in-vs-code-ce599497f20d)
 
-## 9. Useful Commands
+1. [adding miniconda profile in windows terminal](https://dev.to/azure/easily-add-anaconda-prompt-in-windows-terminal-to-make-life-better-3p6j)
+
+2. [setting up conda in vscode](https://medium.com/@udiyosovzon/how-to-activate-conda-environment-in-vs-code-ce599497f20d)
+
+## 10. Useful Commands
 
 1. List conda envs
 
