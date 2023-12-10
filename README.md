@@ -85,13 +85,19 @@ cd pytorch
 jupyter notebook
 ```
 
-## 9. Useful links
+## 9. Required extensions for vscode
+
+1. Python
+
+2. code runner
+
+## 10. Useful links
 
 1. [adding miniconda profile in windows terminal](https://dev.to/azure/easily-add-anaconda-prompt-in-windows-terminal-to-make-life-better-3p6j)
 
 2. [setting up conda in vscode](https://medium.com/@udiyosovzon/how-to-activate-conda-environment-in-vs-code-ce599497f20d)
 
-## 10. Useful Commands
+## 11. Useful Commands
 
 1. List conda envs
 
