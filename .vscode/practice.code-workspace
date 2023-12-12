@@ -6,7 +6,7 @@
 	],
 	"settings": {
 		"code-runner.executorMap": { 
-			"python": "C:\\Users\\vamsi\\miniconda3\\Scripts\\activate.bat C:\\Users\\vamsi\\miniconda3 & conda activate d2l-practice & python"
+			"python": "C:/Users/vamsi/miniconda3/envs/d2l-practice/python.exe"
 		}
 	}
 }
