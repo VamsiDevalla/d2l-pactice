@@ -22,7 +22,7 @@ print('concatenating tensors along dimension 0', torch.cat((X1,X2), dim=0))
 print('concatenating tensors along dimension 1', torch.cat((X1,X2), dim=1))
 
 # constructing binary tensor via logical statement
-print('comparing two tensors', X1 == X2)
+print('comparing two tensors', X1 == X2) # we can also do X1 < X2, X1 > X2
 
 # sum all elements of a tensor
 print('sum all elements', X.sum())
